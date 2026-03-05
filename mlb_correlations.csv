@@ -1,0 +1,10 @@
+Pair,r,p-value,Significance
+OPS+ → W-L%,0.75,0.0,high
+OPS+ → RS,0.846,0.0,high
+OPS+ → RD,0.784,0.0,high
+TB → W-L%,0.641,0.0,high
+TB → RS,0.921,0.0,high
+TB → RD,0.662,0.0,high
+WAR → W-L%,0.769,0.0,high
+WAR → RS,0.811,0.0,high
+WAR → RD,0.818,0.0,high
